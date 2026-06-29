@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+
+# Python Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Local database files
+*.db
+crunchtime.db
+
+# System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
